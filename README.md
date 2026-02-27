@@ -1,11 +1,11 @@
-Introduction to Github
-About Github and Git 
-  Github is a cloud-based platform where you can store, share and work together with others to write code.
-Collaborative working, one of Github's fundamental features is made possible by the open-source software,GIT,upon which GITHUB is built.
+Introduction to GITHUB
+About GITHUB and GIT 
+  GITHUB is a cloud-based platform where you can store, share and work together with others to write code.
+Collaborative working, one of GITHUB's fundamental features is made possible by the open-source software,GIT,upon which GITHUB is built.
 About GIT
 
-- Git is a verison control system that intelligently tracks changes in files.
-- Git is particularly useful when you and a group of people are all making changes to the same files at the same time.
+- GIT is a verison control system that intelligently tracks changes in files.
+- GIT is particularly useful when you and a group of people are all making changes to the same files at the same time.
 - When you upload files to GITHUB, you'll store them in a "GIT repository".
 - This means that when you made changes (or "commits") to your files in GITHUB, GIT will automatically start to track and manage your changes.
 - Once you start to collaborate with others and all need to work on the same repository at the same time, you'll continually-
