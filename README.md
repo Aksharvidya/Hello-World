@@ -1,4 +1,5 @@
 Introduction to GITHUB
+
 About GITHUB and GIT 
   GITHUB is a cloud-based platform where you can store, share and work together with others to write code.
 Collaborative working, one of GITHUB's fundamental features is made possible by the open-source software,GIT,upon which GITHUB is built.
